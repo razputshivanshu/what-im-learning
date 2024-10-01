@@ -14,3 +14,7 @@ I have a good grasp of full stack development, and I’ve built 3 to 4 complete,
 
 ### What I am learning?
 For the next three months (October to December), I’ll be concentrating on frontend development, with a strong emphasis on deepening my knowledge of React and other frontend technologies.#
+
+
+Medium Link: https://medium.com/@razputshivanshu
+
