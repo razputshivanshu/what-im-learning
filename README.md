@@ -13,7 +13,7 @@ At present, I’m focused on sharpening my problem-solving and implementation sk
 I have a good grasp of full stack development, and I’ve built 3 to 4 complete, fully functional projects.
 
 ### What I am learning?
-For the next three months (October to December), I’ll be concentrating on frontend development, with a strong emphasis on deepening my knowledge of React and other frontend technologies.#
+For the next three months (October to December), I’ll be concentrating on backend development, with a strong emphasis on deepening my knowledge of NodeJs and other backend technologies.
 
 
 Medium Link: https://medium.com/@razputshivanshu
